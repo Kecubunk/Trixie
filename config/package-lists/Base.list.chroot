@@ -1,0 +1,51 @@
+# live system
+live-boot
+live-config
+live-config-systemd
+systemd-sysv
+
+# installer
+calamares
+calamares-settings-debian
+
+# base
+dpkg-dev
+linux-headers-generic
+linux-image-generic
+zfs-dkms
+zfsutils-linux
+systemd-zram-generator
+memlockd
+firmware-linux
+git
+curl
+wget
+python3
+python3-pip
+portaudio19-dev
+
+# Standard utility
+# File Manager
+#thunar
+nemo
+#nautilus
+#nautilus-admin
+
+#Text-editor
+#gnome-text-editor
+#mousepad
+#leafpad
+pluma
+
+### Graphics ###
+eog
+
+# Audio
+rythmbox
+
+#video
+vlc
+#obs-studio
+
+
+
